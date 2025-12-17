@@ -1,7 +1,7 @@
 ---
 title: "Resume Tailoring Assistant"
 version: "1.0"
-author: "Your Name or Organization"
+author: "Neelisetty Nikith"
 date: "2025-12-17"
 ---
 
@@ -93,7 +93,7 @@ Copy code
 
 ## 🧾 Documentation
 For complete specifications, extended examples, and configuration details, see the  
-➡️ **[Resume_Tailoring_Assistant_Manual.md](./Resume_Tailoring_Assistant_Manual.md)**
+➡️ **[Resume_Tailoring_Assistant_Manual.md](./Operation_Manual.md)**
 
 ---
 
